@@ -1,0 +1,6 @@
+typesense-data/
+data/
+content_modules/
+data_with_vector/
+data_with_vector_jsonl/
+node_modules/
